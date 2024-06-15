@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jia22k
+- 👋 Hi, I'm Jiana
 - 👀 I’m interested in Sofware Development, AI and Embedded systems
 - 🌱 I’m currently learning at Case Western Reserve University
 - 📫 These are my projects I have done so far. Still adding all my projects here
